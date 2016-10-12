@@ -8,3 +8,5 @@ bonjovi:
 
 beyonce:
   name:  "beyonce"
+
+<%# You can have ERB in here if you'd like to use Faker, for example %>
